@@ -1,0 +1,1 @@
+This projects demonstrates how to use [kmm-images plugin](https://github.com/jcraane/kmm-images) in a standalone Android project. 

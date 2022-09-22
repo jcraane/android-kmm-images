@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icn_user</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="Cursus-modules" transform="translate(-308.000000, -667.000000)" fill="#FFFFFF">
+            <g id="Bottom-Navigation" transform="translate(0.000000, 656.000000)">
+                <g id="tab-Item-4" transform="translate(270.000000, 0.000000)">
+                    <g id="icn_user_grey_24" transform="translate(33.000000, 8.000000)">
+                        <path d="M12,11 C14.209139,11 16,9.209139 16,7 C16,4.790861 14.209139,3 12,3 C9.790861,3 8,4.790861 8,7 C8,9.209139 9.790861,11 12,11 L12,11 L12,11 Z M8.99582624,13 L15.0041738,13 C17.2110077,13 19,14.7953562 19,17 L19,21 L5,21 L5,17 C5,14.790861 6.79652125,13 8.99582624,13 Z" id="icn_user"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
