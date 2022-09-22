@@ -1,1 +1,1 @@
-This projects demonstrates how to use [kmm-images plugin](https://github.com/jcraane/kmm-images) in a standalone Android project. 
+This projects demonstrates how to use [kmm-images plugin](https://github.com/jcraane/kmm-images) in a standalone Android project. See http://localhost:1313/2022/07/27/standalone_kmm_images/ for more information.
