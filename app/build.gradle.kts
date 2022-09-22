@@ -1,7 +1,7 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    id("dev.jamiecraane.plugins.kmmimages") version "1.0.0-alpha11"
+    id("dev.jamiecraane.plugins.kmmimages") version "1.0.0-alpha12"
 }
 
 kmmImagesConfig {
@@ -11,6 +11,7 @@ kmmImagesConfig {
     packageName.set("dev.jamiecraane.standalonekmmimages")
     defaultLanguage.set("en")
     usePdf2SvgTool.set(true) // optional parameter
+    kotlinMainSourceFolder.set("main")
 }
 
 var generateImages = tasks["generateImages"]
